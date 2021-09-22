@@ -1,0 +1,23 @@
+{
+  "name": "comp2068-lab1",
+  "version": "1.0.0",
+  "description": "Lab 1 for COMP 2068",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADera1220/comp2068-lab1.git"
+  },
+  "author": "ADera1220",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADera1220/comp2068-lab1/issues"
+  },
+  "homepage": "https://github.com/ADera1220/comp2068-lab1#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
